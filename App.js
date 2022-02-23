@@ -8,7 +8,7 @@ export default function App() {
         <main>
         <Header />
         <Meme />
-        <small posititon="centre"> Built by Ali Mora using React ©</small>
+        <small posititon="centre"> Built by Ali Mora using React © 2022</small>
         </main>
     )
 }
