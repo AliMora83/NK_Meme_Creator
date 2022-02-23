@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# NAMKA Meme Creator
+
+This App was created with React.
 
 Quick start:
 
